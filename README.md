@@ -6,7 +6,9 @@ This is a little [visualization](https://rerossel.github.io/JavaScript-Jitter/) 
 
 <div style="width:400px">
 
-[![Visualization of Jitter using JavaScript](JavaScript-Jitter.png "Visualization of Jitter using JavaScript")](https://rerossel.github.io/JavaScript-Jitter/)
+![Visualization of Jitter using JavaScript](JavaScript-Jitter.png "Visualization of Jitter using JavaScript")
+
+[Visualization of Jitter using JavaScript](https://rerossel.github.io/JavaScript-Jitter/)
 
 </div>
 
@@ -18,6 +20,8 @@ A visualization of how SI unit prefixes relate to each other.
 
 <div style="width:400px">
 
-[![SI Prefix Rainbow](SI-Prefix-Rainbow.png "")](https://github.com/RERossel/SI-Prefix-Rainbow)
+![SI Prefix Rainbow](SI-Prefix-Rainbow.png "SI Prefix Rainbow")
+
+[SI Prefix Rainbow](https://github.com/RERossel/SI-Prefix-Rainbow)
 
 </div>
