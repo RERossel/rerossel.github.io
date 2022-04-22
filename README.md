@@ -4,13 +4,9 @@
 
 This is a little [visualization](https://rerossel.github.io/JavaScript-Jitter/) project to learn JavaScript using the HTML5 canvas element.
 
-<div style="width:400px">
-
 ![Visualization of Jitter using JavaScript](/docs/assets/images/JavaScript-Jitter.png "Visualization of Jitter using JavaScript")
 
 [Visualization of Jitter using JavaScript](https://rerossel.github.io/JavaScript-Jitter/)
-
-</div>
 
 ---
 
