@@ -8,11 +8,6 @@ This is a little [visualization](https://rerossel.github.io/JavaScript-Jitter/) 
 
 [![Visualization of Jitter using JavaScript](JavaScript-Jitter.png "Visualization of Jitter using JavaScript")](https://rerossel.github.io/JavaScript-Jitter/)
 
-<iframe
-  src="https://rerossel.github.io/JavaScript-Jitter/"
-  style="width:400px"
-></iframe>
-
 </div>
 
 ---
